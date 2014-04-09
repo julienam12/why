@@ -1,6 +1,8 @@
-what is "why"?
-how do we answer "why" questions?
-why do we answer what we do when people ask us "why"?
+What is "why"?
+
+How do we answer "why" questions?
+
+Why do we answer what we do when people ask us "why"?
 
 ### WhyBot: The Automated 3-year-old
 
@@ -26,7 +28,7 @@ TODO: make a whybot of the same form as above, but ask people to tell us somethi
 
 We translate the natural-language whybot results to a simplified, structured form.
 
-### nlp server setup:
+### NLP Server Setup:
 
 1. get access to a server with at least 3GB of ram and permissions for http requests
 
