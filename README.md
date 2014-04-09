@@ -42,13 +42,13 @@ We translate the natural-language whybot results to a simplified, structured for
 
     **NB** `python-unidecode` is not necessary. If (you're on AFS, which doesn't already have unidecode installed, and) you don't have sudo privileges, make the following changes:
 
-            * comment out line 24
+    * comment out line 24
 
-                from unidecode import unidecode
+        from unidecode import unidecode
 
-            * change line 68 to
+    * change line 68 to
 
-                for line in text.split("\n"):
+        for line in text.split("\n"):
 
 1. download [dasmith's stanford-corenlp-python wrapper](https://github.com/dasmith/stanford-corenlp-python)
 
