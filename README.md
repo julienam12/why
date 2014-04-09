@@ -28,7 +28,7 @@ TODO: make a whybot of the same form as above, but ask people to tell us somethi
 
 We translate the natural-language whybot results to a simplified, structured form.
 
-### NLP Server Setup:
+### NLP Server Setup
 
 1. get access to a server with at least 3GB of ram and permissions for http requests
 
