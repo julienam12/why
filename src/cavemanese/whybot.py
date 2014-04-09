@@ -241,7 +241,7 @@ f = open("whybot2.csv")
 line_num = 0
 discourse = []
 for line in f:
-	if len(line) > 1:# and line_num < 5:
+	if len(line) > 1 and line_num < 6:
 		explanation, both, explanandum = line[:-1].split(",")
 		if len(discourse)>0 and explanandum == discourse[-1]:
 			discourse.append(explanation)
