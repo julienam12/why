@@ -44,11 +44,11 @@ We translate the natural-language whybot results to a simplified, structured for
 
     * comment out line 24
 
-        from unidecode import unidecode
+        	from unidecode import unidecode
 
     * change line 68 to
 
-        for line in text.split("\n"):
+        	for line in text.split("\n"):
 
 1. download [dasmith's stanford-corenlp-python wrapper](https://github.com/dasmith/stanford-corenlp-python)
 
