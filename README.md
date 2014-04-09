@@ -38,7 +38,7 @@ We translate the natural-language whybot results to a simplified, structured for
 
         sudo apt-get install git python-pexpect python-unidecode
 
-    NB: `python-unidecode` is not necessary. If (you're on AFS, which doesn't already have unidecode installed, and) you don't have sudo privileges, make the following changes:
+    **NB** `python-unidecode` is not necessary. If (you're on AFS, which doesn't already have unidecode installed, and) you don't have sudo privileges, make the following changes:
 
             * comment out line 24
 
@@ -64,4 +64,4 @@ We translate the natural-language whybot results to a simplified, structured for
 
 1. in any file that calls the nlp server you've just set up, change the host to the address of your server (or use mine if mine is set up ~ currently running on host corn18.stanford.edu and port 12345)
 
-*NB* If you're using my server (or probably any other server on Stanford's network), you will ONLY be able to connect to the server when you're on Stanford's VPN
+**NB** If you're using my server (or probably any other server on Stanford's network), you will ONLY be able to connect to the server when you're on Stanford's VPN
