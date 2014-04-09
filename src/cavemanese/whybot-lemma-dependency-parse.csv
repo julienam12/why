@@ -1,0 +1,863 @@
+original,subject,negation,predicate,predicate2,directObject,preposition,prepositionObject
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hasn't eaten in 5 hours,Amy,not,eat,,,in,hour
+she has been very busy all morning,Amy,,busy,,,,
+he babysitter called out sick at the last minute,,,babysitter,,,,
+the flu virus was going around,virus,,go,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to learn how to garden,Jack,,want,learn,how,to,garden
+he wanted to grow his own vegetables,Jack,,want,grow,vegetable,,
+store bought vegetables were getting too expensive,store,,buy,,,,
+the drought was longer than expected,someone,,expect,,drought,,
+weather patterns are unpredictable,pattern,,unpredictable,,,,
+John went to the store,John,,go,,,to,store
+he needed to buy something,John,,need,buy,something,,
+he ran out of flour,John,,run,,,out_of,flour
+he used all of the flour while baking pizza,John,,use,,all,while,pizza
+the recipe called for the whole bag of flour,recipe,,call,,,for,bag
+a pizza requires the whole bag of flour,pizza,,require,,bag,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old computer broke,computer,,break,,,,
+it was very old,it,,old,,,,
+meg hadn't any money to buy a new one in the past,meg,not,have,,money,,
+she had been fired from her last job,someone,,fire,,she,from,job
+the economy was doing poorly,economy,,do,,,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+it had been 6 hours since lunch,it,,hour,,,since,lunch
+tom didn't have any snacks between lunch & dinner,tom,not,have,,snack,,
+he was trying to lose weight,6,,try,lose,weight,,
+Alex did the dishes,Alex,,do,,dish,,
+they were dirty,they,,dirty,,,,
+he used them to eat,Alex,,use,eat,,,
+he needs food,Alex,,need,,food,,
+without food he will die,Alex,,die,,,without,food
+the body needs nutrition,body,,need,,nutrition,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+it was time for lunch,it,,time,,,for,lunch
+it was noon,it,,noon,,,,
+she looked at the clock,Amy,,look,,,at,clock
+she was getting hungry,Amy,,hungry,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to grow a garden,Jack,,want,grow,garden,,
+he wanted fresh produce,Jack,,want,,produce,,
+he could save money,Jack,,save,,money,,
+he would have his own source of food,Jack,,have,,source,,
+he would grow the food,Jack,,grow,,food,,
+John went to the store,John,,go,,,to,store
+he needed groceries,John,,need,,grocery,,
+he had to have food in his house,John,,have,have,food,,
+if he got hungry he would need access to food,John,,hungry,,,,
+he would be able to eat the food,John,,able,eat,food,,
+Maya drove to work,maya,,drive,work,,,
+she has a car to drive,maya,,have,,car,,
+she earned the money to buy it,maya,,earn,,money,,
+she worked a job,maya,,work,,job,,
+she needed an income,maya,,need,,income,,
+she had to have money to survive,maya,,have,survive,money,,
+Alex did the dishes,Alex,,do,,dish,,
+they were dirty,they,,dirty,,,,
+they had been used,someone,,use,,they,,
+he didn't like eating off the table,Alex,,not,,,_like,eat
+it is too big,it,,big,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten for several hours,Amy,not,eat,,,for,hour
+she wasn't allowed to snack,someone,not,allow,,Amy,to,snack
+it would spoil her appetite,it,,spoil,,appetite,,
+eating makes her not hungry,she,,eat,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to plant a garden,Jack,,want,plant,garden,,
+he wanted to eliminate chemicals from his food,Jack,,want,eliminate,chemical,from,food
+chemicals can be bad for you,chemical,,bad,,,for,you
+they haven't been adequately tested,someone,not,test,,they,,
+government is controlled by business,business,,control,,government,,
+John went to the store,John,,go,,,to,store
+because he needed some things,John,,need,,thing,,
+he was going to cook supper,John,,go,cook,supper,,
+there was nothing ready to eat,,,be,,,,
+all the leftovers were gone,someone,,go,,leftovers,,
+they had been eaten,someone,,eat,,they,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old computer was antiquated,computer,,antiquated,,,,
+it was 10 years old,it,,old,,,,
+it was made 10 years ago,someone,,make,,it,,
+computers were in use at that time,computer,,be,,,in,use
+they had been invented and were useful,someone,,invent,,they,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten breakfast,Amy,not,eat,,breakfast,,
+she was in a hurry this morning,Amy,,be,,,in,hurry
+she was late for a meeting,Amy,,late,,,for,meeting
+her alarm clock didn't go off,clock,not,go,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he is interested in it,Jack,,interested,,,in,book
+his grandfather was interested in it,grandfather,,interested,,,in,book
+he had to grow his own vegetables as a child,grandfather,,have,grow,vegetable,as,child
+his family had a small farm,family,,have,,farm,,
+they come from a long line of farmers,they,,come,,,from,line
+John went to the store,John,,go,,,to,store
+he needed to buy eggs,John,,need,buy,egg,,
+he wanted to make a quiche,John,,want,make,quiche,,
+his girlfriend was coming over that morning,girlfriend,,come,,,over,morning
+she wanted to see him before she left on a trip,girlfriend,,want,see,John,,
+Maya drove to work,maya,,drive,work,,,
+she had to go in on a weekend,maya,,have,go,,in,
+her boss called her and asked her to,boss,,call,,maya,,
+they were very behind on a project,they,,be,,,on,project
+a winter storm had shut down their offices for several days,storm,,shut,,office,for,day
+their city wasn't prepared for snow,someone,not,prepare,,city,for,snow
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the tire was flat,tire,,flat,,,,
+he ran over a nail,Sam,,run,,,over,nail
+he was riding it through a warehouse parking lot,Sam,,ride,,tire,through,lot
+he wanted to see a girl who worked there,Sam,,want,see,girl,,
+he was attracted to her,someone,,attract,,Sam,to,there
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wants to start gardening,Jack,,want,start,gardening,,
+he wants to eat healthier,Jack,,want,eat,healthier,,
+his doctor said he should improve his diet,doctor,,say,,,,
+his exam and reports weren't so positive,report,not,positive,,,,
+he doesn't exercise or eat too healthily,doctor,not,exercise,,,,
+Jane went to the post office,Jane,,go,,,to,office
+she needed to send a letter,Jane,,need,send,letter,,
+her brother's birthday was soon,birthday,,be,,,,
+he was born on a date close to the present date,someone,,bear,,'s,to,date
+that is when his mother gave birth to him,that,,be,,,,
+Maya drove to work,maya,,drive,work,,,
+it was a workday,it,,be,,,,
+it is Monday,it,,be,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one fell and broke,old,,fall,,,,
+she didn't set it securely on the counter,she,not,set,,one,on,counter
+she was in a hurry,she,,be,,,in,hurry
+she was late getting to work,she,,get,work,,,
+her alarm didn't go off,alarm,not,go,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it is damaged and he needs it to get places,someone,,damage,,it,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he didn't eat lunch,he,not,eat,,lunch,,
+he was too busy to eat,he,,busy,eat,,,
+he had an important project due,he,,have,due,,,
+he was given the responsibility 2 weeks earlier,someone,,give,,responsibility,,
+Alex did the dishes,Alex,,do,,dish,,
+the sink was piled high with dirty dishes,someone,,pile,,sink,with,dish
+he had been too busy to wash them this week,Alex,,busy,wash,they,,
+he had more than his usual commitments,Alex,,have,,more,,
+it turned out that a lot of responsibilities fell heavy this week,it,,turn,,,,
+it was simply random happenstance,it,,happenstance,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she skipped breakfast,Amy,,skip,,breakfast,,
+she didn't have time to eat,Amy,not,have,eat,time,,
+she overslept and was late for school,Amy,,oversleep,,,,
+she stayed up late studying for her test,Amy,,late,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to plant a garden in his backyard,Jack,,want,plant,garden,,
+he felt like starting a new hobby,Jack,,feel,,,_like,start
+he was bored with his life,someone,,bore,,Jack,with,life
+it had become too routine,it,,become,,,,
+Maya drove to work,maya,,drive,work,,,
+she had an 8 hour shift today,maya,,have,,shift,,
+that is how the manager scheduled her,that,,be,,,,
+she was one of the few people available to work that day,maya,,one,,,of,people
+most of the employees ask for Sunday off,most,,ask,,,for,Sunday
+they go to church and or like watching sports that day,,,they,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the chain slipped off the other day when riding home,chain,,slip,,,,
+he shifted gears to fast,Sam,,shift,,gear,to,fast
+he was somewhat careless,Sam,,careless,,,,
+it had been a long day and he was tired,it,,day,,,,
+he worked a full shift and then stayed late at his job,Sam,,work,,shift,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten since breakfast,Amy,not,eat,,,since,breakfast
+there was no time to eat,time,,be,,,,
+she was at work,Amy,,be,,,at,work
+she has a job,Amy,,have,,job,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he was interested in starting a garden,Jack,,interested,,,_in,start
+he wanted to cook with fresh vegetables,Jack,,want,cook,,with,vegetable
+he wanted to eat a healthier diet,Jack,,want,eat,diet,,
+he wanted to maintain his health,Jack,,want,maintain,health,,
+John went to the store,John,,go,,,to,store
+he was low on milk,John,,low,,,on,milk
+he had been using a lot of milk lately,John,,use,,lot,,
+he was drinking more coffee and he liked it better with a lot of milk,John,,drink,,coffee,,
+He was having trouble waking up in the morning,John,,have,wake,trouble,in,morning
+he was staying up too late at night,John,,stay,,,,
+Maya drove to work,maya,,drive,work,,,
+it was too far to walk,it,,far,walk,,,
+she couldn't find a job closer to her home,maya,not,find,,,to,home
+she lived in a bedroom community,maya,,live,,,in,community
+she enjoyed the peace and quiet,maya,,enjoy,,quiet,,
+she was able to relax better in quiet,maya,,able,relax,,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he hadn't eaten since lunch,he,not,eat,,,since,lunch
+he doesn't like to snack between meals,he,not,like,,,to,snack
+snacking leads to weight gain,,,snack,,lead,to,gain
+it adds more calories to burn off,it,,add,burn,,,
+Alex did the dishes,Alex,,do,,dish,,
+he did not like messes,Alex,not,like,,mess,,
+his mothe taught him to be clean,mothe,,teach,clean,,,
+it was what she had been taught,it,,be,,,,
+her mother liked cleanliness,mother,,like,,cleanliness,,
+she just did,mother,,do,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to plant a garden,Jack,,want,plant,garden,,
+he wanted organic vegetables,Jack,,want,,vegetable,,
+they were healthier,they,,healthier,,,,
+they did not have pesticides on them,they,not,have,,pesticide,,
+Jack would not use them,Jack,not,use,,they,,
+Jane went to the post office,Jane,,go,,,to,office
+she needed stamps,Jane,,need,,stamp,,
+she wanted to mail sone postcards,Jane,,want,,,to,postcard
+she was on vacation,Jane,,be,,,on,vacation
+it was summer,it,,be,,,,
+it was July,it,,be,,,,
+Maya drove to work,maya,,drive,work,,,
+it was Monday,it,,be,,,,
+yesterday was Sunday,yesterday,,be,,,,
+the day before was Saturday,,,Saturday,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+she needed one,she,,need,,one,,
+she was in school,she,,be,,,in,school
+she wanted to better herself,she,,want,herself,,,
+she wanted to travel,she,,want,travel,,,
+she wanted to see the world,she,,want,see,world,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten recently,Amy,not,eat,,,,
+she was busy,Amy,,busy,,,,
+she was working,Amy,,work,,,,
+she needs to provide for herself,Amy,,need,provide,,for,herself
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he is starting a garden,Jack,,start,,garden,,
+he wants to grow his own food,Jack,,want,grow,food,,
+he prefers organic,Jack,,prefer,,organic,,
+its free of pesticides,,,free,,,of,pesticide
+he doesnt use any,Jack,,doesnt,use,any,,
+Jane went to the post office,Jane,,go,,,to,office
+she had a package to send,Jane,,have,,package,,
+she had a gift for someone but they were to far for her to bring it herself,Jane,,have,,gift,,
+they lived in another state,they,,live,,,in,state
+they moved,they,,move,,,,
+thats where the work was,,,that,,,,
+Maya drove to work,maya,,drive,work,,,
+she needed to get to work,maya,,need,get,,,
+her job requires her to be there,job,,require,be,,,
+thats where she does her work,,,that,,,,
+thats her job,,,that,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one was obsolete ,one,,obsolete,,,,
+technology is ever changing,technology,,change,,,,
+developers come up with new technology frquently,developer,,come,,,with,technology
+consumers want it,consumer,,want,,one,,
+they need it,they,,need,,one,,
+Alex did the dishes,Alex,,do,,dish,,
+they were dirty,they,,dirty,,,,
+they had been used,someone,,use,,they,,
+Alex's family ate dinner on these dishes,family,,eat,,dinner,on,dish
+Alex's mother cooked dinner and they needed to eat on something,mother,,cook,,,,
+people need something to eat on,people,,need,eat,something,on,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+Amy was hungry,Amy,,hungry,,,,
+she handn't eaten since breakfast,Amy,not,hand,,,,
+she was at work,Amy,,be,,,at,work
+she had bills to pay so she worked for a living,Amy,,have,,bill,,
+things she needs to get by in life cost money,,,thing,,,,
+Jane went to the post office,Jane,,go,,,to,office
+Jane had to mail a package,Jane,,have,mail,package,,
+her boyfriend lived on the other side of the country,boyfriend,,live,,,on,side
+they met on the internet,they,,meet,,,on,internet
+she was shy and akward and had trouble dealing with people in person,Jane,,shy,,,,
+she had a large forehead which made her self conscious,Jane,,have,,forehead,,
+John went to the store,John,,go,,,to,store
+John needed beer,John,,need,,beer,,
+he was going to watch the game,John,,go,watch,game,,
+his team was playing,team,,play,,,,
+the NFL scheduled a game involving his team,NFL,,schedule,,game,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old computer was slow,computer,,slow,,,,
+she had downloaded malware,she,,download,,malware,,
+she thought 'bonzi buddy' was cute so she installed it,she,,think,,bonzi,,
+it was a lovable character that talked to her while she surfed the net,it,,character,,,,
+the malware programmers thought people were more likely to install their malware if they disguised it as something that it wasn't,programmer,,think,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+the body requires nutrients,body,,require,,nutrient,,
+nutrients provide energy,nutrient,,provide,,energy,,
+everything begins with physics,everything,,begin,,,with,physics
+the universe formed a certain way,universe,,form,,way,,
+John went to the store,John,,go,,,to,store
+he wanted to buy things,John,,want,buy,thing,,
+they make his life easier,they,,make,easier,,,
+they are technological advances,they,,advance,,,,
+they began as an idea,they,,begin,,,as,idea
+Maya drove to work,maya,,drive,work,,,
+she wanted money,maya,,want,,money,,
+money can be exchanged for goods and services,someone,,exchange,,money,for,service
+humans created something called the marketplace,human,,create,,something,,
+it makes it easier to survive,it,,make,easier,,,
+technology advances,,,advance,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+she wanted newer technology,she,,want,,technology,,
+She cares about social status,she,,care,,,about,status
+It is human nature to care about social status,it,,nature,,,,
+humans are a social species,human,,species,,,,
+they find it easier to survive that way,they,,find,easier,,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+his body required nutrients,body,,require,,nutrient,,
+his biochemical structure needs energy,structure,,need,,energy,,
+otherwise he would die,,,otherwise,,,,
+he wouldn't have energy,he,not,have,,energy,,
+Alex did the dishes,Alex,,do,,dish,,
+the were dirty,,,dirty,,,,
+they were used gor dinner,someone,,use,,dinner,,
+they had to eat un plates,they,,have,eat,plate,,
+the dinner was done,someone,,do,,dinner,,
+he finished cooking,he,,finish,,cooking,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to plant,Jack,,want,,,to,plant
+he want fresh vegetables,Jack,,want,,vegetable,,
+he can't afford the ones they sell on the supermarket,Jack,not,afford,,one,,
+they are to high price,they,,be,,,to,price
+John went to the store,John,,go,,,to,store
+he needed some supplies,John,,need,,supplies,,
+his house ran out of the supplies,house,,run,,,out_of,supplies
+they were used the day before,someone,,use,,they,before,
+the house needed cleaning,house,,need,,cleaning,,
+the house was dirty,house,,dirty,,,,
+Maya drove to work,maya,,drive,work,,,
+she needs to pay her rent,maya,,need,pay,rent,,
+she needs a place to live,maya,,need,,place,,
+she can't live on the street,maya,not,live,,,on,street
+she might get wet,maya,,wet,,,,
+there's no were to hide if it rains,no,,be,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it got broken,someone,,break,,it,,
+he was using it,Sam,,use,,bicycle,,
+he needed to get to school,Sam,,need,get,,to,school
+he needs to learn,Sam,,need,learn,,,
+he will get a job eventually,Sam,,get,,job,,
+Alex did the dishes,Alex,,do,,dish,,
+his wife cooks and he cleans,Alex,,clean,,,,
+he's not a good cook and they split the chores,Alex,not,cook,,,,
+he wants to help out around the house,Alex,,want,help,,around,house
+so that he doesn't feel useless,,,so,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she wanted something healthy,Amy,,want,healthy,,,
+she is trying to lose to weight,Amy,,try,lose,,to,weight
+she gained a few pounds over the winter,Amy,,gain,,pound,over,winter
+she injured her hip while running and had to take time off,Amy,,injure,,hip,_while,run
+she was training for a marathon,Amy,,train,,,for,marathon
+Jane went to the post office,Jane,,go,,,to,office
+to mail her mother a card,,,mail,,card,,
+it's her mother's birthday soon,it,,birthday,,,,
+she was born on that day 60 years ago,someone,,bear,,'s,on,day
+her parents conceived her then,parent,,conceive,,'s,,
+they were in love and wanted to start a family,they,,be,,,in,love
+Meg bought a new computer,Meg,,buy,,computer,,
+her laptop was stolen,someone,,steal,,laptop,,
+she left it unattended at the coffee shop,she,,leave,unattended,,at,shop
+she went to grab a refill of coffee,she,,go,grab,refill,,
+she needed more caffeine to stay awake to study,she,,need,,caffeine,,
+so she can get an A on the exam,she,,get,,a,on,exam
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he did not eat since breakfast,he,not,eat,,,since,breakfast
+he had meetings all day at work,he,,have,,meeting,at,work
+he's working on a big project,he,,work,,,on,project
+the client wanted everything done very quickly,client,,want,,everything,,
+Alex did the dishes,Alex,,do,,dish,,
+his gf cooked,gf,,cook,,,,
+they needed to eat something,they,,need,eat,something,,
+humans need food to make eneregy,human,,need,make,eneregy,,
+otherwise people would die,,,people,,,,
+they won't have any food to make energey,they,not,have,,food,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+sh hasn't eaten since lunch,sh,not,eat,,,since,lunch
+she was caught up with work,someone,,catch,,Amy,with,work
+her client was being stupid and caused a lot of issue,client,,stupid,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted plant some stuff in his backyard,Jack,,want,,,,
+he just recently bought a house with a backyard,Jack,,buy,,house,with,backyard
+his had a new born kid and they needed a bigger home,Jack,,have,,kid,,
+he loves his wife and they wanted to start a family together,Jack,,love,,wife,,
+they felt in love,they,,feel,,,in,love
+Maya drove to work,maya,,drive,work,,,
+he needs to make money,he,,need,make,money,,
+he needs to afford his rent,he,,need,afford,rent,,
+he needs to live there ,he,,need,live,,,
+if he doesn't live there he won't have a place to live,he,not,live,,,,
+he doesn't want to be homless,he,not,want,homless,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old computer was getting slow ,computer,,slow,,,,
+she downloaded a lot of crap on it,she,,download,,lot,on,crap
+she doesn't know how to clean up her computer,she,not,know,clean,computer,,
+she's not that proficient in computer,she,not,proficient,,,in,computer
+she never learn them,she,not,learn,,they,,
+Alex did the dishes,Alex,,do,,dish,,
+the dishes were dirty,dish,,dirty,,,,
+the family had eaten dinner,family,,eat,,dinner,,
+they were all hungry,they,,hungry,,,,
+they had not eaten for a long time,they,not,eat,,,for,time
+they had had a busy day,they,,have,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she had not had breakfast,Amy,not,have,,breakfast,,
+she had overslept,Amy,,oversleep,,,,
+she had been up all night,Amy,,be,,,,
+she had a paper to write,Amy,,have,,paper,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to start his own garden,Jack,,want,start,garden,,
+he wanted to grow fresh vegetables,Jack,,want,grow,vegetable,,
+he was fat and worried about his health,Jack,,fat,,,about,health
+he only ate junk food,Jack,,eat,,food,,
+he did not know how to cook for himself,Jack,not,know,cook,,for,himself
+John went to the store,John,,go,,,to,store
+he was out of food,John,,be,,,out_of,food
+he had not been to the store for a long time,John,not,be,,,for,time
+he did not have much money,John,not,have,,money,,
+he had lost of his job recently,John,,lose,,,of,job
+he was lazy ,John,,lazy,,,,
+Maya drove to work,maya,,drive,work,,,
+she had to earn a paycheck,maya,,have,earn,paycheck,,
+she had to pay her mortgage,maya,,have,pay,mortgage,,
+she did not want to lose her home,maya,not,want,lose,home,,
+she did not want to be homeless,maya,not,want,homeless,,,
+Alex did the dishes,Alex,,do,,dish,,
+it was his chore,it,,chore,,,,
+his parents said so,parent,,say,,,,
+they pay the bills in the house,they,,pay,,bill,,
+ they are home owners,they,,owner,,,,
+they wanted a home to start a family,they,,want,,home,,
+John went to the store,John,,go,,,to,store
+ she wanted ice cream,cream,,want,,cream,,
+she was craving ice cream,cream,,cream,,,,
+ she's pregnant,cream,,pregnant,,,,
+she had sex with a male,cream,,have,,sex,,
+because it feels good,male,,feel,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+she needed to spreadsheets at home,she,,need,,,at,home
+she works from home,she,,work,,,from,home
+her jobs lets her,job,,let,,she,,
+they want to reduce work place stress,they,,want,reduce,stress,,
+The company has stressful working conditions,company,,have,,condition,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken,someone,,break,,it,,
+he jumped off a ramp,Sam,,jump,,ramp,,
+it was fun,it,,fun,,,,
+sam lives in middle of no where,sam,,live,,,in,middle
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hosting tonight's football night,he,,host,,,,
+because his friends usually rotate between houses,friend,,rotate,,,between,house
+it's a guys night out,it,,night,,,,
+their wives nag,,,wife,,,,
+they don't pay attention to them,they,not,pay,,attention,to,.
+Alex did the dishes,Alex,,do,,dish,,
+it was his day to do them,it,,day,,,,
+his family has a chore chart,family,,have,,chart,,
+every one needs to pitch in,one,,need,pitch,,in,
+it is the fair thing to do,it,,thing,,,,
+it keeps the household fair,it,,keep,,fair,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to start a garden,Jack,,want,start,garden,,
+he wanted fresh vegetables,Jack,,want,,vegetable,,
+he wanted to start eating healthy,Jack,,want,start,,,
+to maintain a healthy body weight,,,maintain,,weight,,
+he wants to live longer,Jack,,want,live,,,
+John went to the store,John,,go,,,to,store
+he was planning a party,John,,plan,,party,,
+it was super bowl weekend,it,,weekend,,,,
+the super bowl is on Sunday,bowl,,be,,,on,Sunday
+that is when the NFL planned it,that,,be,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+his other one broke,other,,break,,,,
+he got a virus,he,,get,,virus,,
+he opened an email attatchment that infected his computer,he,,open,,attatchment,,
+he thought  it was from a friend,he,,think,,,,
+the email had his friends email and name,name,,have,,friend,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken in an accident,someone,,break,,it,in,accident
+he was hit by a car,car,,hit,,Sam,,
+the drver wasn't paying attention,drver,not,pay,,attention,,
+he was looking at his cell phone,drver,,look,,,at,phone
+he was texting his friend,drver,,text,,friend,,
+Alex did the dishes,Alex,,do,,dish,,
+they needed to be done,they,,need,do,,,
+they were dirty,they,,dirty,,,,
+they had been used,someone,,use,,they,,
+food had been placed on them,someone,,place,,food,on,they
+that's what you use dishes for,that,,be,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+Amy was hungry,Amy,,hungry,,,,
+Amy hadn't eaten in hours,Amy,not,eat,,,in,hour
+she had no money for food,Amy,,have,,money,,
+she was robbed,someone,,rob,,Amy,,
+a burglar thought she had money,,,thought,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he was interested in gardening,Jack,,interested,,,in,gardening
+he wanted to start a garden,Jack,,want,start,garden,,
+he was interested in gardening,Jack,,interested,,,in,gardening
+he wanted to start a garden,Jack,,want,start,garden,,
+he was interested in gardening,Jack,,interested,,,in,gardening
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken,someone,,break,,it,,
+it was used roughly,someone,,use,,it,,
+the owner did not care for it,owner,not,care,,,for,bicycle
+the owner was a horrible person,owner,,person,,,,
+he was brought up wrong,someone,,bring,,person,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+raw dinner is unhealthy,dinner,,unhealthy,,,,
+you can die from eating raw meat,you,,die,,,_from,eat
+bacteria on the meat can infect and kill you,bacterium,,infect,,you,,
+that's what bacteria do,that,,be,,,,
+Alex did the dishes,Alex,,do,,dish,,
+he was asked to,someone,,ask,to,Alex,,
+his mother wanted him to,mother,,want,,Alex,to,
+she was tired,someone,,tire,,mother,,
+she'd made the meal,mother,,make,,meal,,
+they needed to eat,they,,need,eat,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+it interested him,it,,interest,,Jack,,
+he wondered how to grow vegetables,Jack,,wonder,grow,vegetable,,
+he thought eating fresh vegetables would be good,Jack,,think,eat,,,
+they are healthful,they,,healthful,,,,
+they provide nutrients,they,,provide,,nutrient,,
+John went to the store,John,,go,,,to,store
+he needed groceries,John,,need,,grocery,,
+he had eaten all his food,John,,eat,,food,,
+he hadn't been shopping in a while,John,not,shop,,,in,while
+he didn't want to go shopping,John,not,want,go,shopping,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one was broken,someone,,break,,one,,
+it was old,it,,old,,,,
+she'd bought it a long time ago,she,,buy,,one,,
+she needed one for school,she,,need,,one,for,school
+she had essays to write,she,,have,,essay,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he'd worked all day,he,,work,,,,
+that was his job,that,,job,,,,
+he was offered that job,someone,,offer,,he,,
+he had expertise,he,,have,,expertise,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten in a long time,Amy,not,eat,,,in,time
+she forgot to eat while playing water polo,Amy,,forget,eat,,,
+your not supposed to eat while swimming,you,,not,,,,
+you can get stomach aches,you,,get,,ache,,
+Jane went to the post office,Jane,,go,,,to,office
+he wanted to mail a letter,he,,want,mail,letter,,
+he wanted to tell his ex-wife how much he disliked her,he,,want,tell,ex-wife,,
+she was a bad person,person,,person,,,,
+she told him he would never amount to anything,person,,tell,,he,,
+he didn't really amount to anything,he,not,amount,,,to,anything
+John went to the store,John,,go,,,to,store
+he needed a gun,John,,need,,gun,,
+people had been breaking into his house,people,,break,,,into,house
+he had lots of gold,John,,have,,lot,,
+he invested in gold a long time ago,John,,invest,,,in,gold
+it was a good investment,it,,investment,,,,
+Maya drove to work,maya,,drive,work,,,
+she needed to make money,maya,,need,make,money,,
+ she had to pay her rent,maya,,have,pay,rent,,
+she had to have a place to live,maya,,have,have,place,,
+without a place to live she would be homeless,,,without,,,,
+she didn't have anywhere else to live,maya,not,have,live,else,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it had a flat tire,it,,have,,tire,,
+he almost got in an accident,Sam,,get,,,in,accident
+he came around a corner to fast,Sam,,come,,,to,corner
+he was trying to show off,Sam,,try,show,,,
+John went to the store,John,,go,,,to,store
+He needed milk,John,,need,,milk,,
+the jug was empty,jug,,empty,,,,
+someone drank it all,someone,,drink,all,,,
+they were thirsty,they,,thirsty,,,,
+it was hot outside,it,,hot,,,outside,
+Maya drove to work,maya,,drive,work,,,
+she was scheduled to be there,someone,,schedule,be,maya,,
+it wasn't her day off,it,not,day,,,,
+Her boss said she had to work,boss,,say,,,,
+he needed her,boss,,need,,maya,,
+the store was busy,store,,busy,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one quit working,,,old,,,,
+lightning struck it,lightning,,strike,,one,,
+she left it plugged in,she,,leave,,,,
+she was in a hurry when she left,she,,be,,,in,hurry
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broke,someone,,break,,it,,
+he crashed it into a pole,Sam,,crash,,bicycle,into,pole
+he wasn't looking where he was going,Sam,not,look,,,,
+he was daydreaming,Sam,,daydream,,,,
+he was thinking about a girl,Sam,,think,,,about,girl
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he had not eaten lunch,he,not,eat,,lunch,,
+the meeting ran late,meeting,,run,,,,
+there were a lot of disagreements,lot,,be,,,,
+no one could agree,one,,agree,,,,
+Jane went to the post office,Jane,,go,,,to,office
+she had to mail a letter,Jane,,have,mail,letter,,
+she wanted to contact her aunt,Jane,,want,contact,aunt,,
+her neice passed away,neice,,pass,,,,
+she was sick,neice,,sick,,,,
+she caught the bird flu,neice,,catch,,flu,,
+Maya drove to work,maya,,drive,work,,,
+it was quicker than walking,it,,quicker,,,_than,walk
+cars are faster than people,car,,be,,,than,people
+they have engines,they,,have,,engine,,
+that is how they run,that,,be,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one broke,old,,break,,,,
+she got a virus on it,she,,get,,virus,on,virus
+she clicked on a bad link,she,,click,,,on,link
+it promised her money,it,,promise,,money,,
+it was a scam,it,,scam,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the tire was flat,tire,,flat,,,,
+he ran over a nail,Sam,,run,,,over,nail
+he was riding on a bad road,Sam,,ride,,,on,road
+he had to take a detour,Sam,,have,take,detour,,
+the bridge was out,bridge,,be,,,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he hadn't eaten all day,he,not,eat,,,,
+he was busy,he,,busy,,,,
+he was working on his car,he,,work,,,on,car
+the engine blew up,engine,,blow,,,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she had not eaten yet,Amy,not,eat,,,,
+she did not like breakfast,Amy,not,like,,breakfast,,
+the eggs were too runny,egg,,runny,,,,
+they had not been cooked as long as she likes,someone,not,cook,,they,,
+Jane went to the post office,Jane,,go,,,to,office
+she needed to mail a letter,Jane,,need,mail,letter,,
+she needed to let everyone know about her wedding date,Jane,,need,let,,,
+she wanted them to come to the wedding,Jane,,want,come,,to,wedding
+she found their company pleasant,Jane,,find,pleasant,,,
+they were kind and friendly,they,,kind,,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old computer had become obsolete,computer,,become,,,,
+it was ten years old,it,,old,,,,
+she had not been able to afford a new one before then,she,not,able,afford,one,before,
+she had to pay off student loan debts,she,,have,pay,debt,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the chain was broken,someone,,break,,chain,,
+it had caught on a stick while dirt biking,it,,catch,,,on,stick
+he had not been careful enough,Sam,not,careful,,,,
+He was biking with friends,Sam,,biking,,,with,friend
+it's much more fun to be with friends than alone,it,,fun,,,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he had a guest coming over,he,,have,,guest,,
+he wanted to impress her,he,,want,impress,woman,,
+he thought she was a kind woman,he,,think,,,,
+he had seen her help a small boy when he fell down,he,,see,boy,help,,
+the small boy had not been paying attention and tripped,boy,not,pay,,attention,,
+Alex did the dishes,Alex,,do,,dish,,
+his sink was full of dirty dishes,sink,,full,,,of,dish
+he just made dinner,Alex,,make,,dinner,,
+he was hungry,Alex,,hungry,,,,
+he just came home from a long day at work,Alex,,come,,home,at,work
+he had to work overtime,Alex,,have,work,overtime,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten all day,Amy,not,eat,,,,
+she was very busy,Amy,,busy,,,,
+she was planning her wedding,Amy,,plan,,wedding,,
+she is to be married in two months,Amy,,be,marry,,in,month
+John went to the store,John,,go,,,to,store
+he needed to buy groceries,John,,need,buy,grocery,,
+he was out of several things,John,,be,,,out_of,thing
+he hadn't gone shopping for a while,John,not,go,,shopping,,
+he has been busy,John,,busy,,,,
+he has a lot going on right now,John,,have,,lot,,
+Maya drove to work,maya,,drive,work,,,
+the bus wasn't available today,bus,not,available,,,,
+it wasn't running today,it,not,run,,,,
+the bus driver was sick,driver,,sick,,,,
+there is a cold going around,cold,,be,,,,
+people get sick,people,,sick,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the tire was flat,tire,,flat,,,,
+he ran over a piece of glass,Sam,,run,,,over,piece
+somebody smashed a bottle in the street,somebody,,smash,,bottle,in,street
+some people are not considerate,people,not,considerate,,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wants to start a garden,Jack,,want,start,garden,,
+he would like to eat fresh fruit and vegetables,Jack,,like,eat,vegetable,,
+he wants to be more healthy,Jack,,want,healthy,,,
+he wants to have a higher quality of living,Jack,,want,have,quality,,
+he wants to be happier,Jack,,want,happier,,,
+Maya drove to work,maya,,drive,work,,,
+she enjoys driving,maya,,enjoy,drive,,,
+it's fun to her,it,,fun,,,to,maya
+she enjoys the feel of the road,maya,,enjoy,,feel,,
+it's a pleasant experience,it,,experience,,,,
+she can feel the power under her feet,maya,,feel,,power,under,foot
+Meg bought a new computer,Meg,,buy,,computer,,
+she needed one,she,,need,,one,,
+her work requires a computer,work,,require,,computer,,
+a lot of her work is online,lot,,online,,,,
+it's the nature of her profession,it,,nature,,,of,profession
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+he wants to ride his bike,Sam,,want,ride,bike,,
+he wants to exercise more,Sam,,want,exercise,more,,
+he wants to get in shape,Sam,,want,get,,in,shape
+he wants to live a healthier life,Sam,,want,live,life,,
+he wants to feel better about himself,Sam,,want,feel,better,about,himself
+Tom cooked dinner,Tom,,cook,,dinner,,
+he was hungry,he,,hungry,,,,
+he hadn't eaten all day,he,not,eat,,,,
+he was busy,he,,busy,,,,
+he has a job,he,,have,,job,,
+he needs to pay his bills,he,,need,pay,bill,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hasn't had a meal in hours,Amy,not,have,,meal,,
+she was busy running errands,Amy,,busy,,,,
+today was the only day that was free,today,,day,,,,
+the rest of the week she was working,,,rest,,,of,week
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to learn how to run a garden,Jack,,want,learn,,,
+he wanted some fresh vegetables,Jack,,want,,vegetable,,
+they taste a lot better than store bought,they,,taste,,,,
+they haven't been sitting,they,not,sit,,,,
+they were freshly cut,someone,,cut,,they,,
+Maya drove to work,maya,,drive,work,,,
+it was time for her shift,it,,time,,,for,shift
+she was scheduled to work today,someone,,schedule,work,maya,,
+the manager thought it was best,manager,,think,,,,
+the hours worked for everybody,hour,,work,,,for,everybody
+it didn't conflict with anyone,it,not,conflict,,,with,anyone
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken,someone,,break,,it,,
+someone crashed it,someone,,crash,,bicycle,,
+they were being careless,they,,careless,,,,
+they didn't respect Sam,they,not,do,,Sam,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he wanted something to eat,he,,want,eat,something,,
+his stomach was making noises,stomach,,make,,noise,,
+he didn't eat for a long time,he,not,eat,,,for,time
+the amount of work he had to finish,,,amount,,,of,work
+he was putting it off,he,,put,,work,,
+Alex did the dishes,Alex,,do,,dish,,
+his dishwasher was broken,someone,,break,,dishwasher,,
+his children had put crayons in it,child,,put,,crayon,,
+they didn't like the colors and wanted to change them,they,not,like,,color,,
+they thought the colors were too dark,they,,think,,,,
+they were trying to draw pictures of snowflakes,they,,try,draw,picture,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+the salad was unavailable,salad,,unavailable,,,,
+the lettuce was not shipped in time,someone,not,ship,,lettuce,in,time
+a snow squall prevented the crop from being picked,squall,,prevent,,crop,_from,pick
+the workers could not access the fields,worker,not,access,,field,,
+large amounts of wet snow made the ground muddy,amount,,make,muddy,,,
+John went to the store,John,,go,,,to,store
+he needed toilet paper,John,,need,,paper,,
+he had overnight guests,John,,have,,guest,,
+his best friend was in town,friend,,be,,,in,town
+he had a job interview,friend,,have,,interview,,
+he recently left his wife,friend,,leave,,wife,,
+Maya drove to work,maya,,drive,work,,,
+the bus service was unavailable,service,,unavailable,,,,
+a large crater formed in the intersection,crater,,form,,,in,intersection
+a water main broke,water,,break,,,,
+poor installation by the contractors,,,installation,,,by,contractor
+they underbid the job to get the work,they,,underbid,,job,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+his auto was in the shop and he needed transportation,auto,,be,,,in,shop
+he previously had been in an accident,Sam,,be,,,in,accident
+an opposum with babies had crossed the highway as he was passing,opposum,,cross,,highway,,
+there was a pack of coyotes moving from the hills towards them,pack,,be,,,,
+Alex did the dishes,Alex,,do,,dish,,
+he was told to,someone,,tell,to,Alex,,
+his mom didn't want to do them,mom,not,want,do,they,,
+she was busy buying crack,mom,,busy,,,,
+shes an addict,,,she,,,,
+her father touched her,father,,touch,,mom,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to grow pot,Jack,,want,grow,pot,,
+buying weed is expensive,weed,,expensive,,,,
+the federal war on drugs has artificially inflated prices,war,,have,,price,,
+more risk equals more reward,risk,,equal,,reward,,
+people want to be paid for risking their lives,people,,want,pay,,_for,risk
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one was stolen,someone,,steal,,one,,
+someone broke into her house,someone,,break,,,into,house
+they wanted her things,they,,want,,thing,,
+they could sell them for drugs,they,,sell,,they,for,drug
+fence's don't ask a lot of questions,,,fence,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken,someone,,break,,it,,
+someone tried to steal it,someone,,try,steal,bicycle,,
+they wanted crack money,they,,want,,money,,
+they're an addict,they,,addict,,,,
+they made some bad life choices,they,,make,,choice,,
+Tom cooked dinner,Tom,,cook,,dinner,,
+he wanted a steak,he,,want,,steak,,
+meat is delicious,meat,,delicious,,,,
+evolution designed us to derive nutrition from many sources,evolution,,design,derive,nutrition,from,source
+omnivores have a better chance of surviving in rapidly changing conditions,omnivore,,have,,chance,,
+Alex did the dishes,Alex,,do,,dish,,
+they were dirty,they,,dirty,,,,
+nobody else cleaned them,nobody,,clean,,they,,
+they are lazy,they,,lazy,,,,
+Alex lets them be lazy,Alex,,let,,,,
+he has no back bone,Alex,,have,,bone,,
+Amy ate a sandwich,Amy,,eat,,sandwich,,
+she was hungry,Amy,,hungry,,,,
+she hadn't eaten,Amy,not,eat,,,,
+she was busy,Amy,,busy,,,,
+she had to work,Amy,,have,work,,,
+she needed money,Amy,,need,,money,,
+Jane went to the post office,Jane,,go,,,to,office
+she needed to mail something,Jane,,need,,,to,something
+Maya drove to work,maya,,drive,work,,,
+it was to far to walk,it,,be,walk,,,
+Meg bought a new computer,Meg,,buy,,computer,,
+her old one was slow,one,,slow,,,,
+it was old,it,,old,,,,
+she bought it years ago,she,,buy,,one,,
+she hasn't bought one since then,she,not,buy,,one,since,
+she didn't have the money,she,not,have,,money,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+the chain fell off,chain,,fall,,,,
+he was riding to fast,Sam,,ride,,,to,
+people were chasing him,people,,chase,,Sam,,
+he robbed a bank,Sam,,rob,,bank,,
+he needed money,Sam,,need,,money,,
+Alex did the dishes,Alex,,do,,dish,,
+they were dirty,they,,dirty,,,,
+he had made a complicated dinner the night before,Alex,,make,,,,
+he had a date that night,Alex,,have,,date,,
+he'd called around to see if a friend of his was available,Alex,,call,see,,,
+he'd always found her cute,Alex,,find,cute,,,
+Jack read a book about gardening,Jack,,read,,book,about,gardening
+he wanted to learn how to grow vegetables,Jack,,want,learn,,,
+the vegetables at the store weren't very good,vegetable,not,good,,,,
+they were covered in pesticides,someone,,cover,,they,in,pesticide
+there had been a problem with pests that season,,,problem,,,with,pest
+the weather was unseasonably warm,weather,,warm,,,,
+John went to the store,John,,go,,,to,store
+he needed milk,John,,need,,milk,,
+he wanted cereal for breakfast,John,,want,,cereal,for,breakfast
+he had no more oatmeal,John,,have,,oatmeal,,
+he ate all of the oatmeal earlier in the week,John,,eat,,all,in,week
+it was his favorite breakfast food,it,,food,,,,
+Sam repaired his bicycle,Sam,,repair,,bicycle,,
+it was broken,someone,,break,,it,,
+he had crashed and bent the fender,Sam,,crash,,,,
+he wasn't paying attention to where he was going,Sam,not,pay,,attention,_to,go
+he saw a pretty girl,Sam,,see,,,,
+she was wearing a red dress,girl,,wear,,dress,,
