@@ -1,11 +1,14 @@
-whybot-2014-04-01
-http://stanford.edu/~erindb/explanations/whybot.html
-explain daily activities recursively (5 levels deep)
+## Experiments
 
+- [whybot](http://stanford.edu/~erindb/explanations/whybot.html)
 
+    explain daily activities recursively (5 levels deep)
 
+- advicebot
+- goalbot
+- explanations
 
-
+## Background
 
 What is "why"?
 
@@ -33,11 +36,11 @@ TODO: make an elicitation.js containing common code that all bots use.
 
 TODO: make a whybot of the same form as above, but ask people to tell us something they know a lot about and explain that.
 
-### Cavemanese
+## Cavemanese
 
 We translate the natural-language whybot results to a simplified, structured form.
 
-### NLP Server Setup
+## NLP Server Setup
 
 1. get access to a server with at least 3GB of ram and permissions for http requests
 
