@@ -1,3 +1,12 @@
+whybot-2014-04-01
+http://stanford.edu/~erindb/explanations/whybot.html
+explain daily activities recursively (5 levels deep)
+
+
+
+
+
+
 What is "why"?
 
 How do we answer "why" questions?
