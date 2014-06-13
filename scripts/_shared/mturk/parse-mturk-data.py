@@ -109,38 +109,6 @@ with open(mturk_data_file, 'rb') as csvfile:
           trial_line.append(subject_data[label][i])
         output_lines.append(trial_line)
 
-#       trial_keys = set()
-#       trial_level_entries = {}
-#       for i in range(len(row)):
-#         elem = row[i]
-#         header_label = header_labels[i]
-#         if header_label == "workerid":
-#           elem = symb(elem)
-#         if header_label[:7] == "Answer.":
-#           elem = json.loads(elem)
-#           if type(elem) is int:
-#             subject_level_entries.append(str(elem))
-#           elif type(elem) is unicode:
-#             subject_level_entries.append(elem)
-#           elif type(elem) is dict:
-#             True
-#           elif type(elem) is list:
-#             for trial in elem:
-#               trial_keys.update(trial.keys())
-#             for key in trial_keys:
-#               trial_level_entries[key] = []
-#             for trial in elem:
-#               for key in trial_keys:
-#                 if key in trial.keys():
-#                   trial_level_entries[key] = str(trial[key])
-#                 else:
-#                   trial_level_entries[key] = "NA"
-#             #print elem
-#           else:
-#             print "Error 0: I don't know how to deal with data of " + str(type(elem)) + ". Sorry!"
-#       trial_keys = list(trial_keys)
-#       print trial_level_entries[trial_keys[0]]
-
 print workers
 
 w = open(output_data_file, 'w')
