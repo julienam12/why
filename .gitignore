@@ -1,4 +1,5 @@
 *.results
 *.RData
 *.Rhistory
-.DS_Store
+*.DS_Store
+*.participants
