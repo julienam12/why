@@ -1,42 +1,47 @@
 import os
 import sys
+import json
+import re
 
 config_file = sys.argv[1]
 output_dir = sys.argv[2]
 
 settings = open(config_file, 'r')
-lines = settings.readlines()
+json_string = settings.read()
 settings.close()
-dict={}
-for line in lines:
-    if not (line == "\n" or line == ""):
-        while (line[0] == "\n" or line[0] == "\t" or line[0] == " "):
-            line = line[1:]
-        if not (line[0:3] == "&&&"):
-            x=line.split("::")
-            key = x[0]
-            possvalues = x[1].split("&&&")
-            value = possvalues[0]
-            while (key[0] == "\n" or key[0] == "\t" or key[0] == " "):
-                key = key[1:]
-            while (key[-1] == "\n" or key[-1] == "\t" or key[-1] == " "):
-                key = key[:-1]
-            while (value[0] == "\n" or value[0] == "\t" or value[0] == " "):
-                value = value[1:]
-            while (value[-1] == "\n" or value[-1] == "\t" or value[-1] == " "):
-                value = value[:-1]
-            dict[x[0]] = value
+dict = json.loads(re.sub("\n", "", json_string))
 
-if not os.path.exists(dict["locationofCLT"]) or dict["locationofCLT"][-1] == '/':
-    raise Exception("Error: check the 'locationofCLT' specification in your README file for errors.")
+locationofCLT = os.environ['MTURK_CMD_HOME']
+# dict={}
+# for line in lines:
+#     if not (line == "\n" or line == ""):
+#         while (line[0] == "\n" or line[0] == "\t" or line[0] == " "):
+#             line = line[1:]
+#         if not (line[0:3] == "###"):
+#             x=line.split("::")
+#             key = x[0]
+#             possvalues = x[1].split("###")
+#             value = possvalues[0]
+#             while (key[0] == "\n" or key[0] == "\t" or key[0] == " "):
+#                 key = key[1:]
+#             while (key[-1] == "\n" or key[-1] == "\t" or key[-1] == " "):
+#                 key = key[:-1]
+#             while (value[0] == "\n" or value[0] == "\t" or value[0] == " "):
+#                 value = value[1:]
+#             while (value[-1] == "\n" or value[-1] == "\t" or value[-1] == " "):
+#                 value = value[:-1]
+#             dict[x[0]] = value
+
+if not os.path.exists(locationofCLT) or locationofCLT == '/':
+    raise Exception("Error: please set your 'MTURK_CMD_HOME' environment variable to your AWS directory.")
 
 if dict["rewriteProperties"] == "yes":
-    old_properties_file = open(dict["locationofCLT"] + "/bin/mturk.properties", 'r').readlines()
-    backup = open(dict["locationofCLT"] + "/bin/mturk.properties.backup", 'w')
+    old_properties_file = open(locationofCLT + "/bin/mturk.properties", 'r').readlines()
+    backup = open(locationofCLT + "/bin/mturk.properties.backup", 'w')
     for line in old_properties_file:
         backup.write(line + '\n')
     backup.close()
-    new_properties_file = open(dict["locationofCLT"] + "/bin/mturk.properties", 'w')
+    new_properties_file = open(locationofCLT + "/bin/mturk.properties", 'w')
     if (dict["liveHIT"] == "yes"):
         for line in old_properties_file:
             if "://mechanicalturk.sandbox.amazonaws.com/?Service=AWSMechanicalTurkRequester" in line:
@@ -54,10 +59,10 @@ if dict["rewriteProperties"] == "yes":
             else:
                 new_properties_file.write(line)
     new_properties_file.close()
-    print "Old mturk.properties file backed up at " + dict["locationofCLT"] + "/bin/mturk.properties.backup" 
+    print "Old mturk.properties file backed up at " + locationofCLT + "/bin/mturk.properties.backup" 
 
 # write the .question file, which tells MTurk where to find your external HIT.
-question = open(output_dir + output_dir + dict["nameofexperimentfiles"] + ".question", 'w')
+question = open(output_dir + dict["nameofexperimentfiles"] + ".question", 'w')
 question.write("<?xml version='1.0'?><ExternalQuestion xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2006-07-14/ExternalQuestion.xsd'><ExternalURL>" + dict["experimentURL"] + "</ExternalURL><FrameHeight>"+ dict["frameheight"] +"</FrameHeight></ExternalQuestion>")
 question.close()
 
@@ -80,13 +85,3 @@ for x in conditionlist:
     input.write(str(num) + " " + x + " \n")
     num = num + 1
 input.close()
-
-#write the bash script for posting the HITs.
-posthits = open(output_dir + dict["nameofexperimentfiles"] + "-postHIT.sh", 'w')
-posthits.write("#!/usr/bin/env sh\ncd " + dict["locationofCLT"] + "/bin\n./loadHITs.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -label " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + " -input " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + ".input -question " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + ".question -properties " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + ".properties -maxhits 1")
-posthits.close()
-
-#write the bash script for getting results from MTurk
-getResults = open(output_dir + dict["nameofexperimentfiles"] + "-getResults.sh", 'w')
-getResults.write("#!/usr/bin/env sh\ncd " + dict["locationofCLT"] + "/bin\n./getResults.sh $1 $2 $3 $4 $5 $6 $7 $8 $9 -successfile " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + ".success -outputfile " + dict["hitfolderpath"] + "/" + output_dir + dict["nameofexperimentfiles"] + ".results")
-getResults.close()
