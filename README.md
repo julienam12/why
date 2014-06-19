@@ -10,6 +10,20 @@
 - goalbot
 - explanations
 
+## How to use submiterator mturk tools
+
+    scripts/_shared/submiterator.py [PATH_TO_CONFIG_FILE] [PATH_TO_OUTPUT_DIRECTORY]
+    scripts/_shared/posthit.sh [PATH_TO_MTURK_FILES_WITH_LABEL]
+    scripts/_shared/getresults.sh [PATH_TO_MTURK_FILES_WITH_LABEL]
+    scripts/_shared/parsedata.py [PATH_TO_RESULTS_FILE] [PATH_TO_OUTPUT_FILE]
+
+For example:
+
+    scripts/_shared/submiterator.py experiments/test/test.config data/test/mturk/
+    scripts/_shared/posthit.sh data/test/mturk/test
+    scripts/_shared/getresults.sh data/test/mturk/test
+    scripts/_shared/parsedata.py data/test/mturk/test.results data/test/mturk/test.csv
+
 ## Background
 
 What is "why"?
@@ -24,15 +38,15 @@ The whybot asks participants to explain one of several seeds, then asks them to 
 
 current seeds:
 
-	* John went to the store
-    * Jane went to the post office
-    * Alex did the dishes
-    * Tom cooked dinner
-    * Maya drove to work
-    * Amy ate a sandwich
-    * Jack read a book about gardening
-    * Meg bought a new computer
-    * Sam repaired his bicycle
+* John went to the store
+* Jane went to the post office
+* Alex did the dishes
+* Tom cooked dinner
+* Maya drove to work
+* Amy ate a sandwich
+* Jack read a book about gardening
+* Meg bought a new computer
+* Sam repaired his bicycle
 
 TODO: make an elicitation.js containing common code that all bots use.
 
